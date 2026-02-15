@@ -1,0 +1,11 @@
+numpy
+opencv-python
+matplotlib
+scikit-learn
+pandas
+datasets
+pillow
+pyarrow
+torch
+torchvision
+--extra-index-url https://download.pytorch.org/whl/cu130
